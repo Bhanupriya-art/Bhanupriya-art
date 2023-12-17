@@ -16,8 +16,8 @@
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bhanupriyaart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Bhanupriyaart/)](https://www.linkedin.com/in/Bhanupriyaart/) 
-[![Instagram Badge](https://img.shields.io/badge/-@_bpriyarana_-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_bpriyarana_)](https://www.instagram.com/_bpriyarana_) 
+[![Linkedin Badge](https://img.shields.io/badge/-Bhanupriyaart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Bhanupriyaart/)](https://www.linkedin.com/in/bhanupriya086/) 
+[![Instagram Badge](https://img.shields.io/badge/-@_bpriyarana_-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_bpriyarana_)](https://www.instagram.com/bhannuuuu_) 
 ### Languages
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" />
 <img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
