@@ -56,3 +56,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhanupriya-art)](https://git.io/streak-stats)
 
 
+![snake gif](https://github.com/Bhanupriya-art/Bhanupriya-art/blob/output/github-contribution-grid-snake.gif)
+
