@@ -1,3 +1,5 @@
+![Header](./header-image.png)
+
 
 # Hi ,I am Bhanu priya! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
