@@ -3,6 +3,7 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Bhanupriya-art&color=blue)<br>
+<img align="right" alt="Coding" width="370px" height = "370px" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" /><br>
 
 ### A passionate and enthusiast programmer<br>
 
