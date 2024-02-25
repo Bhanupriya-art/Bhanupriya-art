@@ -51,6 +51,3 @@
 </a>
 <br>
 <br><br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhanupriya-art)](https://git.io/streak-stats)
-
