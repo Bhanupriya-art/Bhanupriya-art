@@ -20,6 +20,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-bhanupriya086-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhanupriya086/)](https://www.linkedin.com/in/bhanupriya086/) 
 [![Instagram Badge](https://img.shields.io/badge/-@bhannuuu_-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bhannuuuu_)](https://www.instagram.com/bhannuuuu_) 
+[![Instagram Badge](https://img.shields.io/badge/-@Bhanupriya25_-000000?style=flat-square&logo=Hackerrank&logoColor=Green&link=https://www.hackerrank.com/bhanupriya25_)](https://www.hackerrank.com/bhanupriya25) 
+
 ### Languages
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" />
 <img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
@@ -40,7 +42,7 @@
 
 ### 📈 Github Stats:
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhanupriya-art" alt="bhanupriya-art" /></a> </p>
 <br>
 <a href="https://github.com/Bhanupriya-art">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhanupriya-art&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
@@ -51,3 +53,4 @@
 </a>
 <br>
 <br><br>
+
