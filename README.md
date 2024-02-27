@@ -53,5 +53,4 @@
 </a>
 <br>
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanupriya-art&" alt="bhanupriya-art" /></p>
 
