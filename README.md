@@ -78,7 +78,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bhanupriya-art&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanupriya-art&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  /><br><br>
   <img src="https://github-profile-trophy.vercel.app?username=bhanupriya-art&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanupriya-art&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  /><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanupriya-art&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 
