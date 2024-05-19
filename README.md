@@ -14,7 +14,7 @@
 - 🤔 I’m looking for help with <b>Model Training</b><br>
 - 🥅 Upcoming Goals: <b>Contribute to open source and learn DSA & Development</b> <br>
 
-### 🕵 Take a look at my repositories and let's get in touch!<br>
+### 🕵 Social Media Handles!<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bhanupriya086/" target="_blank">
