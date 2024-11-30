@@ -29,6 +29,9 @@
   <a href="https://stackoverflow.com/users/20812086/bhanu-priya" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
   </a>
+  <a href="https://www.geeksforgeeks.org/user/bhanurana123/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=geeksforgeeks&logo=geeksforgeeks&label=&color=2E8D46&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="GFG logo"  />
+  </a>
 </div>
 <br>
 
