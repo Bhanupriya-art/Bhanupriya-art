@@ -1,6 +1,7 @@
 <div align="center">
   <h1> 🌸 Hey there! I'm Bhanu Priya 🌸 </h1>
 <h3> <i>Passionate Coder • Problem Solver • Tech Enthusiast<i/> </h3>
+ 🏔️ From the beautiful mountain region of <strong>Mandi, Himachal Pradesh, India</strong> 🏔️<br>
 </div> 
 
 <div align="center">
@@ -182,10 +183,11 @@
 
 ### 🌸*"Code is poetry, and every bug is just a plot twist!"* 🌸
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanupriya086)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/bhanupriya086)
 [![GitHub](https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanupriya-art)
 [![Email](https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:brana2k5@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-FF69B4?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Bhanupriya252hr)
+[![LeetCode](https://img.shields.io/badge/Leetcode-FF69B4?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/brana2k5/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-FFB6C1?style=for-the-badge&logo=geeksforgeeks&logoColor=black)](https://www.geeksforgeeks.org/user/bhanurana123/)
 
 </div>
 
