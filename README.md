@@ -4,7 +4,7 @@
 </div> 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!+%F0%9F%92%96;MERN+Stack+Developer+%F0%9F%8C%9F;Game+Developer+%F0%9F%8E%AE;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+learning%2C+always+growing!+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;AI+Explorer;Software+Developer;Data+Science;Game+Developer;MERN+Stack+Developer;Always+learning+always+growing!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,12 +15,11 @@
 
 <div align="center">
   <h2> About Me</h2>
-
- **Computer Science Engineering** student at **Lovely Professional University**  
- **Freelancer** since May 2024 with **95%+ client satisfaction**  
- **Data Structures & MERN Stack** enthusiast  
- Exploring **Game Development** with Unity  
- Passionate about **AI/ML** and **Cloud Computing**  
+ Computer Science Engineering student at Lovely Professional University <br>
+ Freelancer since May 2024 with 100% client satisfaction<br>
+ Passionate about Data Science, Cloud Computing, and Game Development (Unity & Blender)<br>
+ Skilled in Java, DSA, and the MERN Stack<br>
+ I enjoy learning every day and love growing through the little things—one project at a time 🌱<br>
 </div>
 
 
@@ -36,10 +35,10 @@
 
 | **Role** | **Description** |
 |-------------|-------------------|
-| **Software Developer** | Crafting efficient solutions in Python, Java & more |
+| **Software Developer** | Crafting efficient solutions in Java & more |
 | **MERN Stack Developer** | Building dynamic web applications |
-| **Game Developer** | Creating immersive experiences with Unity |
-| **AI Enthusiast** | Exploring machine learning & automation |
+| **Game Developer** | Creating immersive experiences with Unity & Blender |
+| **AI Enthusiast** | Exploring insights through AI and data-driven projects |
 | **Technical Writer** | Simplifying complex concepts for everyone |
 
 </div>
@@ -51,7 +50,7 @@
 <div align="center">
 <h2>My Tech Arsenal</h2>
 
-### Languages I Speak
+### Languages 
 ![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FF1493?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black)
