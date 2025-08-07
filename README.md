@@ -34,13 +34,13 @@
 <div align="center">
 <h2>What I Do</h2>
 
-| 🌟 **Role** | 💖 **Description** |
+| **Role** | **Description** |
 |-------------|-------------------|
-| 🎯 **Software Developer** | Crafting efficient solutions in Python, Java & more |
-| 🌐 **MERN Stack Developer** | Building dynamic web applications |
-| 🎮 **Game Developer** | Creating immersive experiences with Unity |
-| 🤖 **AI Enthusiast** | Exploring machine learning & automation |
-| ✍️ **Technical Writer** | Simplifying complex concepts for everyone |
+| **Software Developer** | Crafting efficient solutions in Python, Java & more |
+| **MERN Stack Developer** | Building dynamic web applications |
+| **Game Developer** | Creating immersive experiences with Unity |
+| **AI Enthusiast** | Exploring machine learning & automation |
+| **Technical Writer** | Simplifying complex concepts for everyone |
 
 </div>
 
@@ -51,7 +51,7 @@
 <div align="center">
 <h2>My Tech Arsenal</h2>
 
-### 💻 Languages I Speak
+### Languages I Speak
 ![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FF1493?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black)
@@ -61,14 +61,14 @@
 ![R](https://img.shields.io/badge/R-FF69B4?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌟 Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-FF1493?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-FFB6C1?style=for-the-badge&logo=tailwind-css&logoColor=black)
 
-### ☁️ Cloud & Tools
+### Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-FF69B4?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-FF1493?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFB6C1?style=for-the-badge&logo=unity&logoColor=black)
@@ -90,17 +90,17 @@
 
 <div align="left">
 
-### 🔒 **Secure Browsing Pattern Analyzer**
+### **Secure Browsing Pattern Analyzer**
 *AI-powered security solution with 90%+ accuracy*
-- 🤖 **Tech Stack:** AWS, Python, Machine Learning
-- 🎯 **Achievement:** Real-time threat detection
-- 🌟 **Impact:** Enhanced user privacy & security
+- **Tech Stack:** AWS, Python, Machine Learning
+- **Achievement:** Real-time threat detection
+- **Impact:** Enhanced user privacy & security
 
-### 🤖 **Automated Job Application Bot** 
+### **Automated Job Application Bot** 
 *Smart automation tool for job seekers*
-- 🛠️ **Tech Stack:** Python, Selenium, ChromeDriver
-- ⚡ **Features:** Intelligent error handling & logging
-- 💡 **Innovation:** Automated form detection & submission
+- **Tech Stack:** Python, Selenium, ChromeDriver
+- **Features:** Intelligent error handling & logging
+- **Innovation:** Automated form detection & submission
 
 </div>
 
@@ -113,13 +113,13 @@
 <div align="center">
 <h2>Achievements & Certifications</h2>
 
-| 🎖️ **Achievement** | 📅 **Date** |
+| **Achievement** | **Date** |
 |-------------------|------------|
-| 🥇 **Coding Ninja Slayground Level 3** | Feb 2025 |
-| 🌟 **99.59 Percentile - Naukri Campus Young Turks** | Oct 2024 |
-| 🏅 **Microsoft AI Skills Challenge Winner** | Jan 2024 |
-| 👨‍💼 **HackerEarth Campus Ambassador** | Dec 2023 |
-| ☁️ **Google Cloud Arcade Program Graduate** | Jul 2023 |
+| **Coding Ninja Slayground Level 3** | Feb 2025 |
+| **99.59 Percentile - Naukri Campus Young Turks** | Oct 2024 |
+| **Microsoft AI Skills Challenge Winner** | Jan 2024 |
+| **HackerEarth Campus Ambassador** | Dec 2023 |
+| **Google Cloud Arcade Program Graduate** | Jul 2023 |
 
 </div>
 
@@ -153,9 +153,9 @@
 ---
 
 <div align="center">
-<h2>💌 Let's Connect!</h2>
+<h2>Let's Connect!</h2>
 
-### 🌸 *"Code is poetry, and every bug is just a plot twist!"* 🌸
+### 🌸*"Code is poetry, and every bug is just a plot twist!"* 🌸
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanupriya086)
 [![GitHub](https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanupriya-art)
@@ -168,7 +168,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </div>
 
@@ -180,7 +180,7 @@
 
 <div align="center">
   
-### 💫 Profile Views Counter
+### Profile Views Counter
 ![Visitor Count](https://komarev.com/ghpvc/?username=bhanupriya-art&label=Profile%20views&color=FF69B4&style=flat)
 
 </div>
