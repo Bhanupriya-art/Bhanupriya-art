@@ -11,6 +11,14 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300"/>
 </div>
 
+
+<div align="center">
+  
+### Profile Views Counter
+![Visitor Count](https://komarev.com/ghpvc/?username=bhanupriya-art&label=Profile%20views&color=FF69B4&style=flat)
+
+</div>
+
 ---
 
 <div align="center">
@@ -50,30 +58,48 @@
 <div align="center">
 <h2>My Tech Arsenal</h2>
 
-### Languages 
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+## Programming Languages
 ![Java](https://img.shields.io/badge/Java-FF1493?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-FFB6C1?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-FF1493?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=black)
+![Scala](https://img.shields.io/badge/Scala-FF69B4?style=for-the-badge&logo=scala&logoColor=white)
+
+## Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=black)
-![R](https://img.shields.io/badge/R-FF69B4?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-FF1493?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-FF1493?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-FFB6C1?style=for-the-badge&logo=tailwind-css&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-FF69B4?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-FF1493?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-FFB6C1?style=for-the-badge&logo=wordpress&logoColor=black)
 
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-FF69B4?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-FF1493?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFB6C1?style=for-the-badge&logo=unity&logoColor=black)
-![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
+## Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-FF1493?style=for-the-badge&logo=mongodb&logoColor=white)
+![HBase](https://img.shields.io/badge/HBase-FFB6C1?style=for-the-badge&logo=apache&logoColor=black)
+
+## Big Data & Analytics
+![Hadoop](https://img.shields.io/badge/Hadoop-FF69B4?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FF1493?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-FFB6C1?style=for-the-badge&logo=apache&logoColor=black)
+![Apache Pig](https://img.shields.io/badge/Apache_Pig-FF69B4?style=for-the-badge&logo=apache&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-FF1493?style=for-the-badge&logo=tableau&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-FFB6C1?style=for-the-badge&logo=selenium&logoColor=black)
+
+## Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FFB6C1?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-FF69B4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white)
+
+## Game Development & Design
+![Unity](https://img.shields.io/badge/Unity-FF1493?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-FFB6C1?style=for-the-badge&logo=blender&logoColor=black)
+
 
 </div>
 
@@ -175,11 +201,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20,21&height=120&section=footer&text=Thanks%20for%20visiting!%20💖&fontSize=24&fontColor=white&animation=twinkling"/>
 </div>
 
----
-
-<div align="center">
-  
-### Profile Views Counter
-![Visitor Count](https://komarev.com/ghpvc/?username=bhanupriya-art&label=Profile%20views&color=FF69B4&style=flat)
-
-</div>
