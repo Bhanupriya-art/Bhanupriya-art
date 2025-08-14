@@ -181,7 +181,7 @@
 <div align="center">
 <h2>Let's Connect!</h2>
 
-### 🌸*"Code is poetry, and every bug is just a plot twist!"* 🌸
+### 🌸"Code is poetry, and every bug is just a plot twist!"🌸
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/bhanupriya086)
 [![GitHub](https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanupriya-art)
